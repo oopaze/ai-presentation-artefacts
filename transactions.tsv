@@ -1,0 +1,22 @@
+TransactionID;Items
+1;pão,queijo,presunto
+2;queijo,presunto
+3;arroz,feijao
+4;pao,leite
+5;arroz,macarrao,alho
+6;macarrao,extrato de tomate
+7;pao,queijo,ketchup
+8;queijo,mortadela,alface,tomate
+9;alface,tomate
+10;alho,cebola,coentro
+11;arroz,carne
+12;pão,leite,manteiga
+13;pao,maneteiga,ovo
+14;cuscuz,ovo
+15;ovo,pao
+16;pao,cafe,leite
+17;cafe,cigarro
+18;cigarro,cerveja
+19;cerveja,carne
+20;carne,refrigerante,cerveja,whisky
+21;whisky,gelo
