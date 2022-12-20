@@ -28,6 +28,8 @@
 
 
 ### Show Refereces
+- [Machine Learning and Big Data](https://gatefy.com/pt-br/blog/como-machine-learning-e-big-data-se-relacionam/)
+
 - [Supervised Machine Learning](https://thinkfeed.divyesshm.com/post/supervised-machine-learning)
 
 - [Unsupervised Machine Learning](https://dev.to/divyesshm/unsupervised-machine-learning-20g2)
