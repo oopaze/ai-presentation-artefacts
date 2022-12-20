@@ -1,4 +1,4 @@
-### Predição do Preço de Imóvies
+### Predição do Emails como Spam
 
 1. Temos um serviço de email
 2. Com base nos email, o modelo preditivo determina que:
