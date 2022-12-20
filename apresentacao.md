@@ -42,3 +42,4 @@
     - lift = 1 : Produtos não tem relação
 
 ## Demonstração do Algoritmo Apriori
+- Let's Demo
