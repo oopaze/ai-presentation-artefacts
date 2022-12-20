@@ -41,6 +41,4 @@
     - lift < 1 : Produtos estão negativamente relacionados, ou seja, pessoas não gostam de comprá-los juntos.
     - lift = 1 : Produtos não tem relação
 
-## Como o Apriori Algoritmo Funciona
-
 ## Demonstração do Algoritmo Apriori
